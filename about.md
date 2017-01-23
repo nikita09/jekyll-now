@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently a senior at the University of Texas at Austin. I am doing a double major in Computer Science and Electrical and Computer Engineering. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nikitazamwar@utexas.edu](mailto:nikitazamwar@utexas.edu)
