@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am currently a senior at the University of Texas at Austin. I am doing a double major in Computer Science and Electrical and Computer Engineering.
+I am currently a super senior at the University of Texas at Austin. I am doing a double major in Computer Science and Electrical and Computer Engineering.
 
 ### More Information
 
-I love traveling, music, movies and art.  
+I love traveling, music, movies and art.   
 
 ### Contact me
 
